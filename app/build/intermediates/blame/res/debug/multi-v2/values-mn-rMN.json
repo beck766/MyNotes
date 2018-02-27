@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/beck/Android/worldNotes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn-rMN/values-mn-rMN.xml",
+            "map": [
+                {
+                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-3.3/caches/transforms-1/files-1.1/appcompat-v7-20.0.0.aar/3a477cb59b0e5794356b1d08e84b4c15/res/values-mn-rMN/values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,169,269,382,469,575,687,796,900,997,1105,1206,1309",
+                        "endColumns": "112,99,112,86,105,111,108,103,96,107,100,102,121",
+                        "endOffsets": "164,264,377,464,570,682,791,895,992,1100,1201,1304,1426"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,168,268,381,468,574,686,795,899,996,1104,1205,1308",
+                        "endColumns": "112,99,112,86,105,111,108,103,96,107,100,102,121",
+                        "endOffsets": "163,263,376,463,569,681,790,894,991,1099,1200,1303,1425"
+                    }
+                }
+            ]
+        }
+    ]
+}

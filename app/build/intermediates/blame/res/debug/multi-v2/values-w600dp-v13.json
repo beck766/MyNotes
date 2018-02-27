@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/beck/Android/worldNotes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-3.3/caches/transforms-1/files-1.1/appcompat-v7-20.0.0.aar/3a477cb59b0e5794356b1d08e84b4c15/res/values-w600dp/values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8,9,10,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,118,186,255,320,386,448,508,573",
+                        "endColumns": "61,67,68,64,65,61,59,63,54",
+                        "endOffsets": "113,181,250,315,381,443,503,567,623"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,185,254,319,385,447,507,571",
+                        "endColumns": "61,67,68,64,65,61,59,63,54",
+                        "endOffsets": "112,180,249,314,380,442,502,566,621"
+                    }
+                }
+            ]
+        }
+    ]
+}

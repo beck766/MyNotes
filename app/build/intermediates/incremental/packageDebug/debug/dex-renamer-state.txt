@@ -1,0 +1,4 @@
+#Tue Feb 27 14:19:27 CST 2018
+base.0=/Users/beck/Android/worldNotes/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/beck/Android/worldNotes/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

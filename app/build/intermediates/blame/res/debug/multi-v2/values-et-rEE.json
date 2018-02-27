@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/beck/Android/worldNotes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et-rEE/values-et-rEE.xml",
+            "map": [
+                {
+                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-3.3/caches/transforms-1/files-1.1/appcompat-v7-20.0.0.aar/3a477cb59b0e5794356b1d08e84b4c15/res/values-et-rEE/values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,173,280,391,477,579,696,807,912,1011,1121,1222,1325",
+                        "endColumns": "116,106,110,85,101,116,110,104,98,109,100,102,127",
+                        "endOffsets": "168,275,386,472,574,691,802,907,1006,1116,1217,1320,1448"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,172,279,390,476,578,695,806,911,1010,1120,1221,1324",
+                        "endColumns": "116,106,110,85,101,116,110,104,98,109,100,102,127",
+                        "endOffsets": "167,274,385,471,573,690,801,906,1005,1115,1216,1319,1447"
+                    }
+                }
+            ]
+        }
+    ]
+}

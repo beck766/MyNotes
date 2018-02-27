@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/beck/Android/worldNotes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy-rAM/values-hy-rAM.xml",
+            "map": [
+                {
+                    "source": "/Applications/Android Studio.app/Contents/gradle/gradle-3.3/caches/transforms-1/files-1.1/appcompat-v7-20.0.0.aar/3a477cb59b0e5794356b1d08e84b4c15/res/values-hy-rAM/values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,159,260,370,460,566,681,788,895,994,1104,1211,1312",
+                        "endColumns": "102,100,109,89,105,114,106,106,98,109,106,100,119",
+                        "endOffsets": "154,255,365,455,561,676,783,890,989,1099,1206,1307,1427"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,259,369,459,565,680,787,894,993,1103,1210,1311",
+                        "endColumns": "102,100,109,89,105,114,106,106,98,109,106,100,119",
+                        "endOffsets": "153,254,364,454,560,675,782,889,988,1098,1205,1306,1426"
+                    }
+                }
+            ]
+        }
+    ]
+}
